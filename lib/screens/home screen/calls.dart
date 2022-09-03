@@ -35,17 +35,17 @@ class _CallsState extends State<Calls> {
   ];
 
   List msg = [
-    "Hiiii 🤛 ",
-    "How are you",
-    "Hello",
-    "Kem che?",
-    "By",
-    "Goog morning",
-    "Hi",
-    "😅",
-    "Su kare tu",
-    "🌈 ☀️ ",
-    "Goog night",
+   "(2) 29 aug,9:42 pm",
+   "29 aug,1:58 pm",
+   "26 aug,6:20 pm",
+   "20 aug,1:00 pm",
+   "15 aug, :00 pm",
+   "9 aug,7:00 pm",
+   "28 july,2:26 pm",
+   "15 july,1:59 pm",
+   "10 june,5.36 pm",
+   "8 june,4:02 pm",
+   "5 june,3:08 pm",
   ];
   List buttons = [
     Icon(Icons.video_call_outlined),
